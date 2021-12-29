@@ -95,7 +95,7 @@ h3 {
   -webkit-border-radius: 28;
   -moz-border-radius: 28;
   border-radius: 28px;
-  font-family: Arial;
+  font-family: 'Montserrat', sans-serif;
   color: #ffffff;
   font-size: 20px;
   padding: 10px 20px 10px 20px;
@@ -121,6 +121,7 @@ h3 {
   color: #11999E;
   font-weight: bold;
   margin: 20px 15px 20px 15px;
+  font-family: 'Montserrat', sans-serif;
 }
 .links {
   padding-top: 80px;
