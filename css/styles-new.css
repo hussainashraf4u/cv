@@ -17,7 +17,9 @@ h2 {
 h3 {
   font-family: 'Montserrat', sans-serif;
 }
-
+a:hover {
+  color: #EAF6F6;
+}
 .custom-hr {
   border-style: none;
   border-top-style: dotted;
@@ -122,6 +124,7 @@ h3 {
   font-weight: bold;
   margin: 20px 15px 20px 15px;
   font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
 }
 .links {
   padding-top: 80px;
