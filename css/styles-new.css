@@ -131,3 +131,7 @@ h3 {
 .contact-me {
   height: 200px;
 }
+.profile {
+  width: 50%;
+  margin: 100px auto 50px auto;
+}
